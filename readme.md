@@ -1,1 +1,4 @@
+# Data cleaning #
+ - [exercise-handling-missing-values.ipynb](https://github.com/shivshankar9/Technolabs_Pre_learn/tree/main/Data%20Cleaning)
+ - [exercise-scaling-and-normalization.ipynb](https://github.com/shivshankar9/Technolabs_Pre_learn/blob/main/Data%20Cleaning/exercise-scaling-and-normalization.ipynb)
 
