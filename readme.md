@@ -3,4 +3,4 @@
  - [exercise-scaling-and-normalization.ipynb](https://github.com/shivshankar9/Technolabs_Pre_learn/blob/main/Data%20Cleaning/exercise-scaling-and-normalization.ipynb)
  - [exercise-parsing-dates.ipynb](https://github.com/shivshankar9/Technolabs_Pre_learn/blob/main/Data%20Cleaning/exercise-parsing-dates.ipynb)
  - [exercise-character-encodings.ipynb](exercise-character-encodings.ipynb)
-
+ - [exercise-inconsistent-data-entry.ipynp](exercise-inconsistent-data-entry)
