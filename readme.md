@@ -6,4 +6,4 @@
  - [exercise-inconsistent-data-entry.ipynp](exercise-inconsistent-data-entry)
 # Data Visualization #
 
- -[exercise-hello-seaborn.ipynb](exercise-hello-seaborn.ipynb)
+ - [exercise-hello-seaborn.ipynb](exercise-hello-seaborn.ipynb)
