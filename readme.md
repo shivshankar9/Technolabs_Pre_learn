@@ -7,3 +7,4 @@
 # Data Visualization #
 
  - [exercise-hello-seaborn.ipynb](exercise-hello-seaborn.ipynb)
+ - [exercise-line-charts.ipynb](exercise-line-charts.ipynb)
