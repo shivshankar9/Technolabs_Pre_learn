@@ -10,3 +10,6 @@
  - [exercise-line-charts.ipynb](exercise-line-charts.ipynb)
  - [exercise-bar-charts-and-heatmaps.ipynb](exercise-bar-charts-and-heatmaps.ipynb)
  - [exercise-scatter-plots.ipynb](exercise-scatter-plots.ipynb)
+ - [exercise-distributions.ipynb]
+ - [exercise-choosing-plot-types-and-custom-styles.ipynb]
+ - [exercise-final-project.ipynb]
