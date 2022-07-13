@@ -9,3 +9,4 @@
  - [exercise-hello-seaborn.ipynb](exercise-hello-seaborn.ipynb)
  - [exercise-line-charts.ipynb](exercise-line-charts.ipynb)
  - [exercise-bar-charts-and-heatmaps.ipynb](exercise-bar-charts-and-heatmaps.ipynb)
+ - [exercise-scatter-plots.ipynb](exercise-scatter-plots.ipynb)
