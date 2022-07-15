@@ -13,3 +13,6 @@
  - [exercise-distributions.ipynb]
  - [exercise-choosing-plot-types-and-custom-styles.ipynb]
  - [exercise-final-project.ipynb]
+
+ # Data Manipulation #
+ 
